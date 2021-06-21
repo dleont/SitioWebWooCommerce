@@ -1,0 +1,147 @@
+# Translation of Themes - Cook Recipe in Spanish (Ecuador)
+# This file is distributed under the same license as the Themes - Cook Recipe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-29 07:25:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_EC\n"
+"Project-Id-Version: Themes - Cook Recipe\n"
+
+#. Description of the theme
+msgid "Cook Recipe is a perfect theme for creating professional food and recipe websites with multiple Call-to-Action (CTA) to capture leads. Beside food blogs, this theme can be used for creating different types of blogs such as fashion, travel, lifestyle,journal, beauty, parenting and much more. This theme is SEO optimized, mobile-friendly, Schema friendly, and loads faster to help you rank your recipes higher on search engines. The theme is compatible with the Delicious Recipes plugin that includes top-notch features (such as recipe keys, cuisines, advance search, nutrition value, recipe blocks) to easily create and share your recipes. You can easily choose from unlimited colors and 900+ Google fonts to change your website look and feel with a single click. With the Instagram section, you can share your recipe images and grow your followers. It also includes newsletter integration to help you grow your email list. Cook Recipe is translation ready, RTL ready, and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=cook-recipe, read the documentation at https://docs.blossomthemes.com/cook-recipe/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Cook Recipe es un tema perfecto para crear webs profesionales de comida y recetas con múltiples llamadas a la acción (CTA) para captar clientes potenciales. Además de los blogs de comida, este tema se puede utilizar para crear diferentes tipos de blogs como moda, viajes, estilo de vida, diario, belleza, paternidad y mucho más. Este tema está optimizado para el SEO, es amigable con los móviles, es amigable con Schema y carga más rápido para ayudarte a posicionar tus recetas en los motores de búsqueda. El tema es compatible con el plugin Delicious Recipes que incluye características de primera categoría (como claves de recetas, cocinas, búsqueda avanzada, valor nutricional, bloques de recetas) para crear y compartir fácilmente tus recetas. Puedes elegir fácilmente entre un número ilimitado de colores y más de 900 fuentes de Google para cambiar el aspecto de tu web con un solo clic. Con la sección de Instagram, puedes compartir las imágenes de tus recetas y hacer crecer tus seguidores. También incluye la integración de boletines de noticias para ayudarle a hacer crecer su lista de correo electrónico. Cook Recipe está preparado para la traducción, está preparado para RTL y es compatible con WooCommerce. Mira la demostración en https://blossomthemes.com/theme-demo/?theme=cook-recipe, lee la documentación en https://docs.blossomthemes.com/cook-recipe/ y obtén soporte en https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Cook Recipe"
+msgstr "Cook Recipe"
+
+#: functions.php:609
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:608
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:607
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:521
+msgid "https://wordpress.org/"
+msgstr "https://es-ec.wordpress.org/"
+
+#: functions.php:521
+msgid " Powered by %s. "
+msgstr "Funciona con %s."
+
+#: functions.php:519
+msgid " Cook Recipe | Developed By "
+msgstr " Cook Recipe | Desarrollado por "
+
+#: functions.php:370
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: functions.php:273
+msgid "Secondary color of the theme."
+msgstr "Color secundario del tema."
+
+#: functions.php:272
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: functions.php:250
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:249
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:224
+msgid "Change the font size of your site."
+msgstr "Cambia el tamaño de la fuente de tu sitio."
+
+#: functions.php:223
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: functions.php:201
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:200
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:179
+msgid "Primary font of the site."
+msgstr "Fuente principal del sitio."
+
+#: functions.php:178
+msgid "Primary Font"
+msgstr "Fuente principal"
+
+#: functions.php:158
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions.php:150
+msgid "Change color and body background."
+msgstr "Cambia el color y el fondo del cuerpo."
+
+#: functions.php:147
+msgid "Appearance Settings"
+msgstr "Ajustes de apariencia"
+
+#: functions.php:135
+msgid "Choose the layout of the slider for your site."
+msgstr "Elige el diseño del carrusel para tu sitio."
+
+#: functions.php:113 functions.php:134
+msgid "Slider Layout"
+msgstr "Diseño del carrusel"
+
+#: functions.php:100
+msgid "Choose the layout of the header for your site."
+msgstr "Elige el diseño de la cabecera para tu sitio."
+
+#: functions.php:78 functions.php:99
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: functions.php:62
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la documentación: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:60
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la demostración: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:46
+msgid "Information Links"
+msgstr "Enlaces de información"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:520
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/wordpress-themes/cook-recipe/"
+msgstr "https://blossomthemes.com/wordpress-themes/cook-recipe/"
